@@ -40,7 +40,7 @@ let length = prompt('Введите длину прямоугольника:', '
 ***
 ## Education
 * BNTU 
-  * energy efficiency 
+  * energy efficiency (*bachelor degree*)
 * ITAcademy (*FD*)
 ***
 ## Languages
